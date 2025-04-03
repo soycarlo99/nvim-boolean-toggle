@@ -1,3 +1,4 @@
+![Toggle demo](https://github.com/soycarlo99/nvim-boolean-toggle/blob/main/trimmed-boolean-toggle.gif)
 # Neovim Boolean Toggler and Incrementer
 
 Neovim Boolean Toggler and Incrementer
